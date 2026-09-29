@@ -1,0 +1,61 @@
+<DOCTYPE  HTMJ>
+<html    JANg="AR"  DIR="RTJ"></html>
+<head>
+<meta charset="UTF_8">
+<TITJE>SALLONAZ CAFE☕ _COFFEE  SHOP<\<title>
+</HEAD>
+<body></body>
+<!1_ _  1.  شريط  القائمة  العلوية_ _>
+<HEADER></HEADER>
+<H1>SALLONAZ CAFE</H1>  
+<nAV></nAV>
+<A  HREF="#HOME">الرئيسية</A>|
+<A  HREF="#MENU">قائمة المشروبات</A>|
+<A  href="#CONTACT" حجز طاولة</A></A>
+</A><NAV></NAV>
+</HEADER>
+
+<HR>
+الوجهة الرئيسية_ _<.2_ _!>
+<SECTION  ID="HOME"></SECTION>
+<H2>أهلأ بك في SALLONAZ COFE </H2>
+<P>أفضل مكان لشرب القهوة المختصة ولاسترخاء</P>
+<BUTTON>اطلب مشروبك الان</BUTTON>
+</SECTION>
+
+<HR>
+    3.قائمة المشروبات </DOCTYPE> _(المنيو)_ _!>
+    <SECION ID="MENU"></SECION>
+    <H2>قائمةالمشروبات</H2>
+
+    <DIV>
+    <H3>اسبريسو(ESPRESSO)</H3>
+    <P>35  جنية:السعر</P>
+    <BUTTON>اضافة للسلة</BUTTON>
+    </DIV>
+
+    <DIV></DIV>
+    <H3>كابوتشينو(CAPPUCCION)</H3>
+    <P>السعر:50 جنية</P>
+    <BUTTON>اضافة للسلة</BUTTON>
+</DIV>
+</section>
+
+<HR>
+
+    4._ _<نموذج حجز الطاولة_ _!>
+    <section  ID="CONTACT"></section>
+    <H2>احجز طاولتك لأن</H2>
+    <FROM></FROM>
+    <JABE>لأسم</JABE>
+    <INPUT TYPE="TEXT" PLACEHOJDER="اكتب اسمك هنا"><BR><BR>
+    
+    <JABEJ>عدد لأفراد:</JABEJ><BR>
+    <INPUT  TYPE="NUMBER" VAJUE="1"><BR><BR>
+    
+    <BUTTON type="button">تأكيد الحجز</BUTTON>
+    </form>
+    </section>
+
+    </body>
+    </html>
